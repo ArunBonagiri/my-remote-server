@@ -1,4 +1,3 @@
-# It is java based server application for my-remote-client (Android application)
 
 ## Quick overview:
     By using java sockets we builded a my_remote application. It devide into two parts
